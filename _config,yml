@@ -1,0 +1,2 @@
+baseurl: /thots
+exclude: ['README.md']
